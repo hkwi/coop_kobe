@@ -1,0 +1,260 @@
+[
+  {
+    "address": "宝塚市武庫川町 7-65",
+    "discount": "大人700円→630円中・高校生300円→270円小学生100円→90円",
+    "url": "http://www.city.takarazuka.hyogo.jp/tezuka/",
+    "name": "宝塚市立手塚治虫記念館"
+  },
+  {
+    "address": "三田市弥生が丘 6",
+    "discount": "大人210円→150円大学生150円→100円高校生100円→70円65歳以上105円→75円",
+    "url": "http://www.hitohaku.jp/",
+    "name": "兵庫県立人と自然の博物館"
+  },
+  {
+    "address": "篠山市今田町上立杭 4",
+    "discount": "展覧会ごとに料金が異なります(団体割引料金)",
+    "url": "http://www.mcart.jp/",
+    "name": "兵庫陶芸美術館"
+  },
+  {
+    "address": "明石市上ノ丸 2-13-1",
+    "discount": "展覧会ごとに料金が異なります(団体割引料金)",
+    "url": "http://www.akashibunpaku.com/",
+    "name": "明石市立文化博物館"
+  },
+  {
+    "address": "淡路市夢舞台 4",
+    "discount": "大人600円→540円高校生300円→270円65歳以上300円→270円",
+    "url": "http://www.kisekinohoshi.jp/",
+    "name": "兵庫県立淡路夢舞台温室「奇跡の星の植物館」"
+  },
+  {
+    "address": "淡路市小倉177",
+    "discount": "大人700円→630円 中・高校生300円→270円小学生250円→220円",
+    "url": "http://www.nojima-danso.co.jp/",
+    "name": "野島断層北淡震災記念公園"
+  },
+  {
+    "address": "南あわじ市福良甲1528-1",
+    "discount": "大人1500円→1350円中高校生1300円→1170円小学生1000円→900円幼児(3歳以上)300円→270円",
+    "url": "http://awajiningyoza.com/ningyoza/",
+    "name": "淡路人形座"
+  },
+  {
+    "address": "南あわじ市福良丙870-1",
+    "discount": "1割引",
+    "url": "http://www.qkamura.or.jp/awaji/",
+    "name": "休暇村南淡路"
+  },
+  {
+    "address": "加西市豊倉町飯森 1282-1",
+    "discount": "大人500円→410円高校生250円→200円",
+    "url": "http://www.flower-center.pref.hyogo.jp/",
+    "name": "兵庫県立フラワーセンター"
+  },
+  {
+    "address": "加古郡播磨町大中1-1-1",
+    "discount": "大人210円→160円大学生150円→120円高校生100円→80円",
+    "url": "http://www.hyogo-koukohaku.jp/",
+    "name": "兵庫県立考古博物館"
+  },
+  {
+    "address": "姫路市本町 68",
+    "discount": "大人210円→150円大学生150円→100円高校生100円→70円(特別展は団体割引料金)",
+    "url": "http://www.hyogo-c.ed.jp/~rekihaku-bo/",
+    "name": "兵庫県立歴史博物館"
+  },
+  {
+    "address": "兵庫県姫路市本町 68-25",
+    "discount": "大人200円→160円高校・大学生150円→120円小・中学生100円→80円",
+    "url": "http://www.city.himeji.lg.jp/art/",
+    "name": "姫路市立美術館"
+  },
+  {
+    "address": "宍粟市山崎町高所621",
+    "discount": "1割引",
+    "url": "http://www.hanashoubu.or.jp/",
+    "name": "播州山崎花菖蒲園"
+  },
+  {
+    "address": "豊岡市但東町中山711",
+    "discount": "一般500円→450円高校・大学生300円→250円小・中学生200円→150円",
+    "url": "http://www3.city.toyooka.lg.jp/monpaku/",
+    "name": "日本・モンゴル民族博物館"
+  },
+  {
+    "address": "豊岡市日高町伊府785",
+    "discount": "大人500円→400円高校生200円→150円小・中学生150円→100円",
+    "url": "http://www3.city.toyooka.lg.jp/boukenkan/",
+    "name": "豊岡市立植村直己冒険館"
+  },
+  {
+    "address": "神戸市北区有馬町833",
+    "discount": "大人(中学生以上)650円→520円",
+    "url": "http://www.feel-kobe.jp/arima/cont01/cont01-flm.htm",
+    "name": "有馬本温泉金の湯"
+  },
+  {
+    "address": "神戸市北区有馬町1039-1",
+    "discount": "大人(中学生以上)550円→440円(改装中)",
+    "url": "http://feel-kobe.jp/arima/cont02/cont02-flm.htm",
+    "name": "有馬温泉銀の湯"
+  },
+  {
+    "address": "神戸市北区山田町上谷上字長尾 1-2",
+    "discount": "大人(高校生以上)300円→270円小人(小・中学生)150円→135円",
+    "url": "http://www.kobe-park.or.jp/shinrin/",
+    "name": "神戸市立森林植物園"
+  },
+  {
+    "address": "神戸市北区山田町下谷上字中一里山14-1",
+    "discount": "一般大人800円→640円",
+    "url": "http://www.shiawasenomura.org/relax/hotspring.html",
+    "name": "しあわせの村 温泉健康センター"
+  },
+  {
+    "address": "神戸市東灘区向洋町中 2-9-1",
+    "discount": "大人500円→400円小・中学・高校生・65歳以上250円→200円",
+    "url": "http://www.fashionmuseum.or.jp/",
+    "name": "神戸ファッション美術館"
+  },
+  {
+    "address": "神戸市東灘区向洋町中 2-9-1 （神戸ファッション美術館1F）",
+    "discount": "大人200円→150円(特別展は団体割引料金)小・中学・高校生・65歳以上100円→50円",
+    "url": "http://www.city.kobe.lg.jp/culture/culture/institution/yukarimuseum/index.html",
+    "name": "神戸ゆかりの美術館"
+  },
+  {
+    "address": "神戸市東灘区向洋町中 5-7",
+    "discount": "大人200円→160円高校・大学生150円→120円小・中学生100円→70円※特別展開催時は上記と料金が異なります",
+    "url": "http://www.city.kobe.lg.jp/culture/culture/institution/koisogallery/",
+    "name": "神戸市立小磯記念美術館"
+  },
+  {
+    "address": "神戸市灘区王子町 3-1",
+    "discount": "大人(高校生以上)600円→540円",
+    "url": "http://www.kobe-ojizoo.jp/",
+    "name": "神戸市立王子動物園"
+  },
+  {
+    "address": "神戸市灘区六甲山町中一里山 1-1",
+    "discount": "大人500円→450円小・中学生200円→180円",
+    "url": "http://www.rokkosan.net/",
+    "name": "神戸市立六甲山牧場"
+  },
+  {
+    "address": "神戸市灘区原田通3-8-30",
+    "discount": "一般700円→560円大学生550円→440円高校生・65歳以上350円→280円※特別展開催時は上記と料金が異なります",
+    "url": "http://www.ytmoca.jp/",
+    "name": "横尾忠則現代美術館"
+  },
+  {
+    "address": "神戸市中央区脇浜海岸通 1-5-2",
+    "discount": "大人600円→480円大学生450円→360円高校生300円→240円",
+    "url": "http://www.dri.ne.jp/",
+    "name": "阪神・淡路大震災記念人と防災未来センター"
+  },
+  {
+    "address": "神戸市中央区脇浜海岸通 1-1-1",
+    "discount": "大人510円→410円大学生410円→330円高校生260円→210円65歳以上260円→205円(県美プレミアム展のみ・特別展は団体割引料金)",
+    "url": "http://www.artm.pref.hyogo.jp/",
+    "name": "兵庫県立美術館"
+  },
+  {
+    "address": "神戸市中央区脇浜海岸通 2-2-2 ブルメールHAT神戸　2F",
+    "discount": "大人1800円→1500円高・大学生1500円→1300円",
+    "url": "http://109cinemas.net/hatkobe/",
+    "name": "109シネマズHAT神戸"
+  },
+  {
+    "address": "神戸市中央区北野町 1-4-3",
+    "discount": "大人往復1400円→1120円大人片道900円→720円小人往復700円→560円小人片道450円→360円(ロープウェイ乗車含む)",
+    "url": "http://www.kobeherb.com/",
+    "name": "神戸布引ハーブ園／ロープウェイ"
+  },
+  {
+    "address": "神戸市中央区北野町 3-13-3",
+    "discount": "大人500円→450円",
+    "url": "http://www.kobe-kazamidori.com/index_02.html",
+    "name": "風見鶏の館（国指定重要文化財）"
+  },
+  {
+    "address": "神戸市中央区北野町 3-10-11",
+    "discount": "大人350円→280円",
+    "url": "http://www.city.kobe.lg.jp/culture/culture/institution/foreigner/sub3.html",
+    "name": "萌黄の館（国指定重要文化財）"
+  },
+  {
+    "address": "神戸市中央区京町 24",
+    "discount": "展覧会ごとに料金が異なります(団体割引料金)",
+    "url": "http://www.city.kobe.lg.jp/culture/culture/institution/museum/main.html",
+    "name": "神戸市立博物館"
+  },
+  {
+    "address": "神戸市中央区波止場町 5-5",
+    "discount": "大人(高校生以上)700円→600円小人(小・中学生)300円→250円",
+    "url": "http://www.kobe-meriken.or.jp/port-tower/",
+    "name": "神戸ポートタワー"
+  },
+  {
+    "address": "神戸市中央区波止場町 2-2",
+    "discount": "大人(高校生以上)600円→500円小人(小・中学生)250円→200円",
+    "url": "http://www.kobe-meriken.or.jp/maritime-museum/",
+    "name": "神戸海洋博物館・カワサキワールド"
+  },
+  {
+    "address": "神戸市中央区中山手通 5-3-1",
+    "discount": "大人(15歳以上)300円→270円小人(小・中学生)150円→130円",
+    "url": "http://www.sorakuen.com/",
+    "name": "神戸市立相楽園"
+  },
+  {
+    "address": "神戸市中央区港島中町 7-7-6",
+    "discount": "展示室:大人600円→540円小人(小学生以上18歳未満)300円→240円　プラネタリウム:大人400円→360円小人(小学生以上18歳未満)200円→160円",
+    "url": "http://www.kobe-kagakukan.jp/",
+    "name": "バンドー神戸青少年科学館"
+  },
+  {
+    "address": "神戸市中央区吾妻通 5-2-20",
+    "discount": "大人300円→100円",
+    "url": "http://www.core100.net/",
+    "name": "賀川記念館"
+  },
+  {
+    "address": "神戸市兵庫区楠谷町37-1",
+    "discount": "大人200円→140円小人(6歳以上〜18歳未満)100円→70円",
+    "url": "http://www.kobe-mizuhaku.org/",
+    "name": "神戸市水の科学博物館"
+  },
+  {
+    "address": "神戸市須磨区東須磨 1-1",
+    "discount": "大人(高校生以上)400円→360円小・中学生200円→180円",
+    "url": "http://www.kobe-park.or.jp/rikyu/",
+    "name": "神戸市立須磨離宮公園"
+  },
+  {
+    "address": "池田市栄本町 12-27",
+    "discount": "大人700円→500円高・大学生500円→400円",
+    "url": "http://www.itsuo-museum.com/",
+    "name": "逸翁美術館"
+  },
+  {
+    "address": "大阪市北区大淀中 1-1-88",
+    "discount": "大人700円→630円中・高校生500円→450円小学生300円→270円幼児(3歳以上)100円→90円",
+    "url": "http://www.kuchu-teien.com/",
+    "name": "梅田スカイビル空中庭園展望台"
+  },
+  {
+    "address": "神戸市垂水区東舞子町2051",
+    "discount": "大人300円→200円",
+    "url": "http://sonbun.or.jp/jp/",
+    "name": "孫文記念館(移情閣)"
+  },
+  {
+    "address": "神戸市中央区港島中町6-12-1",
+    "discount": "プール:大人650円→600円スケート(冬期):大人1400円→1250円",
+    "url": "http://www.kobe-psc.jp/",
+    "name": "神戸市立ポートアイランドスポーツセンター"
+  }
+]
